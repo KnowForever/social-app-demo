@@ -34,7 +34,7 @@ export default function App(props) {
                 "#fff",
                 "#fff",
                 "#00ED64", // icon color dark
-                "#00684A", // btn-primary light
+                "#00684A", // btn-primary light yep
                 "#00ED64", // btn-hover light
                 "#00684A", // btn-primary dark
                 "#023430", // btn-hover, highlight dark
